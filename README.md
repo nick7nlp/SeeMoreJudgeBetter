@@ -6,7 +6,7 @@ In this work, we propose and study two versions of many-shot in-context prompts,
 
 
 <p>
-<img src="figures/agreement_reinforced.png" width = "95%" />
+<img src="figures/agreement_reinforced.png" width = "100%" />
 </p>
 
 

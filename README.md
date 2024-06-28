@@ -17,6 +17,42 @@ In this work, **we propose and study two versions of many-shot in-context prompt
 
 > Unsupervised ICL for GPT-4o-as-a-Judge in Single Answer Grading
 
+<p>
+<img src="figures/win_rate_all.png" width = "100%" />
+</p>
+
+> 
+
+<p>
+<img src="figures/win_rate_two.png" width = "100%" />
+</p>
+
+> 
+
+<p>
+<img src="figures/zero_shot.png" width = "100%" />
+</p>
+
+> 
+
+<p>
+<img src="figures/pairwise.png" width = "100%" />
+</p>
+
+> 
+
+<p>
+<img src="figures/reinforced_prompt.png" width = "100%" />
+</p>
+
+>
+
+<p>
+<img src="figures/unsupervised_prompt.png" width = "100%" />
+</p>
+
+> 
+
 ## Cite
 If you use this benchmark, please cite this paper
 ```

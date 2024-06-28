@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Can Many-Shot In-Context Learning Help Long-Context LLM Judges?<br>See More, Judge Better!</h2>
+  <h1>Can Many-Shot In-Context Learning Help Long-Context LLM Judges?<br>See More, Judge Better!</h1>
 </div>
 
 coming soon
